@@ -1,8 +1,19 @@
 {
-
-
-
-
-
-
+  "summary" : "Поиск в каталоге на главной странице с ипользованием Английского языка, работает не корректно",
+  "project" : "https://www.onliner.by/",
+  "component" : "Поиск в каталоге",
+  "version" : "0.001",
+  "severity" : "major",
+  "priority" : "high",
+  "status" : "new",
+  "author" : "yury",
+  "assigned to" : "vadzim",
+  "steps to reproduce" : [
+    { "step1" : "",
+     "step2" : "",
+     "step3" : "",
+    }
+  "result" : "ошибка поиска - тавар не найден",
+  "expected result" : "поиск прошел удачно, отображение информации о товаре"   
+  ],
 }
