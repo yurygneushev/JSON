@@ -1,10 +1,7 @@
 {
-	"favorite film" : "Lord of the rings 1,2,3",
-	"favorite serial" : "Boys",
-	"favorite food" : "Bali's food",
-	"favorite season" : "Summer",
-	"i would like to visit" : "USA"
-
-
-
+	"favorite_film" : "The Lord of the rings 1,2,3",
+	"favorite_serial" : "Boys",
+	"favorite_food" : "Bali's food",
+	"favorite_season" : "Summer",
+	"i_would_like_to_visit" : "USA"
 }
