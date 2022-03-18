@@ -1,12 +1,4 @@
 {
-	"soft skills" : "frendly",
-	"hard skills" : "python"
-
-
-
-
-
-
-
-
+	"soft_skills" : "frendly",
+	"hard_skills" : "python"
 }
