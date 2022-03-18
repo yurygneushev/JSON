@@ -8,12 +8,12 @@
   "status" : "new",
   "author" : "yury",
   "assigned to" : "vadzim",
-  "steps to reproduce" : 
+  "steps_to_reproduce" : 
     { "step1" : "",
      "step2" : "",
      "step3" : ""
     }
   "result" : "ошибка поиска - тавар не найден",
-  "expected result" : "поиск прошел удачно, отображение информации о товаре"   
+  "expected_result" : "поиск прошел удачно, отображение информации о товаре"   
   ]
 }
